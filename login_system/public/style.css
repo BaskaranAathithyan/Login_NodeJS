@@ -1,0 +1,55 @@
+
+
+.center-div{
+    padding-top: 5rem;
+}
+
+.btn.btn-success{
+    background-color:rgb(245, 238, 238);
+    font-size: 1.2rem;
+    width: 10rem;
+    height: 3rem;
+    color:black;
+    border: none;
+}
+
+.btn.btn-success:hover{
+    background-color: rgb(27, 27, 27);
+    color: rgb(245, 237, 237);
+}
+
+form{
+    padding: 3rem;
+}
+
+#login .title>span{
+    font-size: 1rem;
+    align-items: center;
+    text-align: center;
+    color: aliceblue;
+}
+h2{
+    font-size: 2rem;
+    align-items: center;
+    text-align: center;
+    color: aliceblue;
+}
+
+body {
+	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+	background-size: 400% 400%;
+	animation: gradient 15s ease infinite;
+	height: 100vh;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
