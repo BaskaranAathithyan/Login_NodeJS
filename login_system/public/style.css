@@ -53,3 +53,18 @@ body {
 		background-position: 0% 50%;
 	}
 }
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.user-img{
+    height: 3rem;
+    width: 3rem;
+}
+
+.logout-btn{
+    width: 3rem;
+    height: 3rem;
+}
